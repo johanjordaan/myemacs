@@ -1,0 +1,7 @@
+C-x C-f Open File
+C-x C-s Save File
+C-x C-e Eval Buffer Line (Not usefull)
+M-x eval-buffer  Better
+C-x X-b Buffers
+C-s     Swiper Search
+M-o     Switch Frame
